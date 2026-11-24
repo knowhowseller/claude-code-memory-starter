@@ -1,6 +1,7 @@
-# Claude Code Memory Starter (free)
+# Claude Code Memory Starter (free) — a CLAUDE.md template for non-developers
 
-Two plain files that stop Claude Code from forgetting your decisions and losing paused work.
+Plain files that stop Claude Code from forgetting your decisions, your corrections, and your paused work.
+Made for people who use Claude Code for **business work, not code**: owners, freelancers, marketers, operators.
 No installer, no scripts. Works on Windows, macOS, and Linux. Setup takes about 5 minutes.
 
 ## What's inside
@@ -9,6 +10,18 @@ No installer, no scripts. Works on Windows, macOS, and Linux. Setup takes about 
 | `CLAUDE.md` | Working rules Claude reads at the start of every session: plain answers, "done only after checking", ask before send/delete/pay/publish, record decisions and lessons. |
 | `OPEN-ITEMS.md` | A ledger for paused work. Every item records *why* it stopped, so nothing silently disappears. |
 | `LESSONS.md` | Where corrections go. "No, that's wrong" becomes a one-line rule Claude reads next time. |
+
+## Examples by role
+Ready-made "About me" + extra rules you can paste into `CLAUDE.md`:
+- [Small business owner](examples/small-business-owner.md) — contracts, quotes, client emails, reports
+- [Freelancer / consultant](examples/freelancer-consultant.md) — proposals, meeting notes, client follow-ups
+- [Marketer / creator](examples/marketer-creator.md) — drafts, captions, campaigns, research
+
+## Why this works
+- Claude Code starts every session with a fresh context. `CLAUDE.md` is the one file it always reads, so that's where the rules live.
+- Long rules files get skimmed. Keep one line per rule and move details into separate notes.
+- Most lost work isn't failed work, it's *stalled* work. Writing down **why** something stopped is what brings it back.
+- Being corrected twice for the same thing is the real failure. A lessons file makes corrections stick.
 
 ## Setup (5 minutes)
 1. Open the folder you use with Claude Code (your project folder).
