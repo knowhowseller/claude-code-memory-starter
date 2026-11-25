@@ -2,6 +2,8 @@
 
 <a href="https://www.producthunt.com/products/claude-code-memory-starter?launch=claude-code-memory-starter" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1329256&theme=light" alt="Claude Code Memory Starter on Product Hunt" width="250" height="54" /></a>
 
+**Launched on Product Hunt on Nov 25, 2026.** Questions, feedback, or what you'd add to a non-developer's `CLAUDE.md` — tell us in the [launch comments](https://www.producthunt.com/products/claude-code-memory-starter?launch=claude-code-memory-starter).
+
 Plain files that stop Claude Code from forgetting your decisions, your corrections, and your paused work.
 Made for people who use Claude Code for **business work, not code**: owners, freelancers, marketers, operators.
 No installer, no scripts. Works on Windows, macOS, and Linux. Setup takes about 5 minutes.
